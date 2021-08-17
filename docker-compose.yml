@@ -1,0 +1,47 @@
+version: "3.1"
+services:
+  php-apache:
+    restart: always
+    build:
+      context: ./sys/php
+    container_name: akuluwe-app
+    ports:
+      - "9000:80"
+      - "443:443"
+    volumes:
+      - ./web:/var/www/html
+      - ./sys/logs/apache2:/var/log/apache2
+      - ./tmp:/tmp
+
+  mysql:
+    image: mysql:5.7
+    container_name: mysql
+    # command: --default-authentication-plugin=mysql_native_password
+    restart: always
+    volumes:
+      - ./config/mysql:/etc/mysql/conf.d
+      - ./db/mysql:/var/lib/mysql
+      - ./sys/logs/mysql:/var/log/mysql
+      - ./tmp:/tmp
+    ports:
+      - "9001:3306"
+    environment:
+      TZ: "Asia/Jakarta"
+      MYSQL_DATABASE: "mylocdb"
+      MYSQL_USER: "mylocuser"
+      MYSQL_PASSWORD: "mylocpass"
+      MYSQL_ROOT_PASSWORD: root
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    container_name: pma9002
+    environment:
+      - PMA_ARBITRARY=1
+      - PMA_HOST=mysql
+    restart: always
+    ports:
+      - "9002:80"
+    volumes:
+      - /sessions
+    links:
+      - mysql

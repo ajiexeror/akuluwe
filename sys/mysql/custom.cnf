@@ -1,0 +1,4 @@
+max_allowed_packet      = 1G
+sort_buffer_size        = 512M
+innodb_buffer_pool_size = 2G
+innodb_additional_mem_pool_size = 128M

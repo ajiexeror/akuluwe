@@ -136,3 +136,374 @@ AH00558: apache2: Could not reliably determine the server's fully qualified doma
 [Tue Aug 17 15:56:43.861117 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
 [Tue Aug 17 15:56:43.863923 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
 [Tue Aug 17 16:29:27.196530 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Fri Aug 20 19:05:37.032003 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 20 19:05:37.034961 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 20 19:05:37.253229 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 20 19:05:37.255532 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 20 19:05:37.259905 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Fri Aug 20 19:05:37.266468 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Aug 21 00:44:12.415531 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Sat Aug 21 15:46:13.113553 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Aug 21 15:46:13.116016 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 21 15:46:13.370364 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Aug 21 15:46:13.371983 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 21 15:46:13.376266 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Sat Aug 21 15:46:13.379770 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Sep 20 07:51:08.543080 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Sep 20 07:51:08.550828 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 20 07:51:08.763621 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Sep 20 07:51:08.764587 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 20 07:51:08.809003 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Mon Sep 20 07:51:08.812403 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Sep 20 13:43:22.210365 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Mon Sep 20 17:47:22.896292 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Sep 20 17:47:22.898771 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 20 17:47:24.114625 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Sep 20 17:47:24.115356 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 20 17:47:24.120601 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Mon Sep 20 17:47:24.121786 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Sep 21 17:44:19.729647 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Sep 21 17:44:19.734724 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 21 17:44:21.251051 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Sep 21 17:44:21.252482 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 21 17:44:21.260903 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Tue Sep 21 17:44:21.262247 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Sep 22 05:30:10.158264 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Sep 22 05:30:10.160091 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 22 05:30:10.986599 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Sep 22 05:30:10.987608 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 22 05:30:10.992177 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Wed Sep 22 05:30:11.000950 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Sep 22 10:41:16.876166 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Sep 22 10:41:33.519309 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Sep 22 10:41:33.521141 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 22 10:41:33.640542 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Sep 22 10:41:33.641869 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 22 10:41:33.652917 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Wed Sep 22 10:41:33.654825 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Sep 24 09:41:46.589108 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Sep 24 09:41:46.605048 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Sep 24 09:41:47.388606 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Sep 24 09:41:47.390372 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Sep 24 09:41:47.399224 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Fri Sep 24 09:41:47.401996 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Sep 25 07:48:10.227109 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Sep 25 07:48:10.228932 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 25 07:48:10.714716 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Sep 25 07:48:10.715773 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 25 07:48:10.719903 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Sat Sep 25 07:48:10.721131 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Sep 25 08:10:35.009369 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Sep 25 08:10:35.010148 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 25 08:10:35.073152 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Sep 25 08:10:35.074043 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 25 08:10:35.084731 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Sat Sep 25 08:10:35.087537 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Sep 25 20:01:34.634288 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Sat Sep 25 22:48:18.697066 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Sep 25 22:48:18.698694 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 25 22:48:18.971098 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Sep 25 22:48:18.971961 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 25 22:48:18.978534 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Sat Sep 25 22:48:18.981347 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Sep 26 14:25:21.761225 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Sep 26 14:25:21.763900 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Sep 26 14:25:22.956395 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Sep 26 14:25:22.957626 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Sep 26 14:25:22.962657 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Sun Sep 26 14:25:22.964503 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Sep 26 14:57:54.140716 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Sep 26 14:57:54.143622 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Sep 26 14:57:54.225138 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Sep 26 14:57:54.227207 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Sep 26 14:57:54.231593 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Sun Sep 26 14:57:54.232553 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Sep 26 17:29:49.415786 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Mon Sep 27 00:24:41.803780 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Sep 27 00:24:41.807029 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 27 00:24:41.936555 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Sep 27 00:24:41.938532 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 27 00:24:41.949117 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Mon Sep 27 00:24:41.954230 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Sep 27 01:04:22.879913 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Mon Sep 27 23:16:43.831895 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Sep 27 23:16:43.835148 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 27 23:16:43.953411 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Sep 27 23:16:43.954569 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 27 23:16:43.958499 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Mon Sep 27 23:16:43.961554 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Sep 28 14:48:30.182697 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Sep 29 18:06:10.041181 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Sep 29 18:06:10.044865 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 29 18:06:10.185050 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Sep 29 18:06:10.185955 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 29 18:06:10.194976 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Wed Sep 29 18:06:10.195886 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Sep 29 22:02:14.309360 2021] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Fri Oct 01 05:00:38.947447 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 01 05:00:39.050912 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 01 05:00:39.765411 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 01 05:00:39.766132 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 01 05:00:39.770576 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Fri Oct 01 05:00:39.772086 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 02 19:40:46.169088 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Oct 02 19:40:46.171545 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 02 19:40:48.091790 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Oct 02 19:40:48.092583 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 02 19:40:48.097625 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Sat Oct 02 19:40:48.106997 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Oct 03 20:11:35.244169 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Oct 03 20:11:35.246748 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 03 20:11:35.626743 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Oct 03 20:11:35.627533 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 03 20:11:35.638141 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Sun Oct 03 20:11:35.638940 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Oct 04 08:49:52.227686 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Oct 04 08:49:52.229628 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 04 08:49:52.274213 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Oct 04 08:49:52.284084 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 04 08:49:52.290302 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Mon Oct 04 08:49:52.295435 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Oct 04 21:03:54.434360 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Oct 04 21:03:54.435690 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 04 21:03:54.866303 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Oct 04 21:03:54.879375 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 04 21:03:54.886117 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Mon Oct 04 21:03:54.887253 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 05 22:13:52.948557 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Oct 05 22:13:52.952005 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 05 22:13:53.588184 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Oct 05 22:13:53.589282 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 05 22:13:53.596981 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Tue Oct 05 22:13:53.598608 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 09 08:02:18.422641 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Oct 09 08:02:18.430681 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 09 08:02:19.058369 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Oct 09 08:02:19.061010 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 09 08:02:19.069648 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Sat Oct 09 08:02:19.071323 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Oct 10 09:07:37.041139 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Sun Oct 10 14:35:37.363330 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Oct 10 14:35:37.364580 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 10 14:35:38.284412 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Oct 10 14:35:38.285389 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 10 14:35:38.290551 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Sun Oct 10 14:35:38.291768 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Oct 10 17:46:17.561188 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Oct 10 17:46:17.565791 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 10 17:46:17.612803 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Oct 10 17:46:17.615395 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 10 17:46:17.620813 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Sun Oct 10 17:46:17.622523 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Oct 11 08:53:23.461872 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Fri Oct 22 08:02:06.877306 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 22 08:02:06.879934 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 22 08:02:06.996458 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 22 08:02:06.997302 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 22 08:02:07.002037 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Fri Oct 22 08:02:07.002932 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Oct 22 15:35:52.033810 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Oct 26 11:39:47.819035 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Oct 26 11:39:47.821427 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 26 11:39:47.955666 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Oct 26 11:39:47.956704 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 26 11:39:47.960256 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Tue Oct 26 11:39:47.961839 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Oct 27 09:04:19.478144 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Sat Nov 20 18:54:54.731413 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Nov 20 18:54:54.733701 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Nov 20 18:54:54.916315 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Nov 20 18:54:54.917184 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Nov 20 18:54:54.921483 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Sat Nov 20 18:54:54.922970 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Nov 21 06:59:41.100402 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Nov 21 06:59:41.102258 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Nov 21 06:59:41.267763 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Nov 21 06:59:41.269230 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Nov 21 06:59:41.282304 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Sun Nov 21 06:59:41.283471 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Nov 21 07:10:26.544345 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Nov 21 07:10:26.545852 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Nov 21 07:10:26.652990 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Nov 21 07:10:26.654705 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Nov 21 07:10:26.678235 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Sun Nov 21 07:10:26.683140 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Nov 22 00:10:11.759384 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Mon Nov 22 00:11:57.974807 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Nov 22 00:11:57.978610 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 22 00:11:58.055605 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Nov 22 00:11:58.056822 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 22 00:11:58.061074 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Mon Nov 22 00:11:58.065037 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Nov 22 00:12:34.516152 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Mon Nov 22 00:12:56.365030 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Nov 22 00:12:56.368687 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 22 00:12:56.476965 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Nov 22 00:12:56.490704 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 22 00:12:56.501704 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Mon Nov 22 00:12:56.509028 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Nov 22 00:48:40.076392 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Mon Nov 22 10:36:52.152133 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Nov 22 10:36:52.154746 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 22 10:36:52.900341 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Nov 22 10:36:52.901213 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 22 10:36:52.905329 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Mon Nov 22 10:36:52.906253 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Nov 22 10:39:31.657612 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Mon Nov 22 10:39:43.203009 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Nov 22 10:39:43.203934 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 22 10:39:43.266530 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Nov 22 10:39:43.267248 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 22 10:39:43.271573 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Mon Nov 22 10:39:43.272681 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Nov 22 20:44:57.799349 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Nov 23 22:43:01.575524 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 23 22:43:01.577029 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 23 22:43:02.097387 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 23 22:43:02.099634 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 23 22:43:02.103151 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Tue Nov 23 22:43:02.104094 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Nov 26 15:45:53.062331 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 26 15:45:53.065019 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Nov 26 15:45:53.889857 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 26 15:45:53.891554 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Nov 26 15:45:53.898978 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Fri Nov 26 15:45:53.899808 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Nov 27 17:49:31.904555 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Nov 27 17:49:31.907415 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Nov 27 17:49:32.118988 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Nov 27 17:49:32.120734 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Nov 27 17:49:32.126598 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Sat Nov 27 17:49:32.129022 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Nov 27 18:12:09.122558 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Nov 27 18:12:09.124934 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Nov 27 18:12:09.684680 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Nov 27 18:12:09.685871 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Nov 27 18:12:09.691979 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Sat Nov 27 18:12:09.693097 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Dec 01 09:49:25.601615 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Dec 01 09:49:25.604750 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 01 09:49:25.860457 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Dec 01 09:49:25.864956 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 01 09:49:25.870359 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Wed Dec 01 09:49:25.872950 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Dec 02 15:15:05.964715 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Dec 02 15:15:05.969084 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 02 15:15:08.439074 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Dec 02 15:15:08.440156 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 02 15:15:08.446315 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Thu Dec 02 15:15:08.449374 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Dec 06 22:15:28.975285 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Dec 07 16:49:36.068314 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 07 16:49:36.071278 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 07 16:49:36.252524 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 07 16:49:36.253880 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 07 16:49:36.259863 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Tue Dec 07 16:49:36.262991 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Dec 08 02:13:35.740265 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Dec 08 02:13:57.275024 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Dec 08 02:13:57.276686 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 08 02:13:57.356192 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Dec 08 02:13:57.357505 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 08 02:13:57.364760 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Wed Dec 08 02:13:57.368218 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Dec 08 02:26:45.115220 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Dec 08 02:26:57.821912 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Dec 08 02:26:57.823969 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 08 02:26:57.926733 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Dec 08 02:26:57.927636 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 08 02:26:57.933767 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Wed Dec 08 02:26:57.934711 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Dec 08 02:34:24.948487 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Dec 08 02:34:52.549350 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Dec 08 02:34:52.551574 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 08 02:34:52.614002 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Dec 08 02:34:52.615252 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 08 02:34:52.622233 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Wed Dec 08 02:34:52.623287 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Dec 09 09:21:23.468970 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Thu Dec 09 09:41:01.224152 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Dec 09 09:41:01.226199 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 09 09:41:01.316613 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Dec 09 09:41:01.328433 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 09 09:41:01.339830 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Thu Dec 09 09:41:01.343074 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Dec 09 17:16:47.045098 2021] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Thu Dec 09 17:17:49.321428 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Dec 09 17:17:49.324641 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 09 17:17:49.454704 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Dec 09 17:17:49.455790 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 09 17:17:49.464524 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Thu Dec 09 17:17:49.465898 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Dec 09 17:19:59.772930 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Thu Dec 09 17:20:44.264757 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Dec 09 17:20:44.266224 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 09 17:20:44.312087 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Dec 09 17:20:44.313181 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 09 17:20:44.320649 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Thu Dec 09 17:20:44.321271 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Dec 10 01:51:21.318411 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Dec 10 01:51:21.320557 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 10 01:51:21.565774 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Dec 10 01:51:21.566637 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 10 01:51:21.574343 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Fri Dec 10 01:51:21.575251 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Dec 11 01:42:30.637091 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Sun Dec 12 06:30:35.260291 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Dec 12 06:30:35.264941 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 12 06:30:35.542153 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Dec 12 06:30:35.543971 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 12 06:30:35.549745 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Sun Dec 12 06:30:35.553004 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Dec 12 22:16:59.034029 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Dec 14 10:58:19.169374 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 14 10:58:19.171070 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 14 10:58:19.352423 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 14 10:58:19.353655 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 14 10:58:19.357898 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Tue Dec 14 10:58:19.358835 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Dec 15 08:49:18.679895 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Dec 15 08:49:18.682002 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 15 08:49:18.885072 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Dec 15 08:49:18.886720 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 15 08:49:18.891473 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Wed Dec 15 08:49:18.893917 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Dec 15 09:11:36.920230 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Dec 15 09:11:36.939652 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 15 09:11:37.779372 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Dec 15 09:11:37.780400 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 15 09:11:37.784973 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Wed Dec 15 09:11:37.786832 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Dec 15 09:47:12.160998 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Fri Dec 17 09:32:42.423777 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Dec 17 09:32:42.431158 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 17 09:32:42.647088 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Dec 17 09:32:42.649894 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 17 09:32:42.656258 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Fri Dec 17 09:32:42.657436 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Dec 18 15:45:50.434107 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Mon Dec 20 16:58:55.925090 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Dec 20 16:58:55.927307 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 20 16:58:56.562240 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Dec 20 16:58:56.563952 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 20 16:58:56.573652 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Mon Dec 20 16:58:56.575508 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Dec 23 11:15:20.611625 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Fri Dec 24 01:30:03.015295 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Dec 24 01:30:03.017706 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 24 01:30:03.195010 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Dec 24 01:30:03.195978 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 24 01:30:03.209622 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Fri Dec 24 01:30:03.212124 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Dec 24 05:25:09.833362 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Dec 24 05:25:09.836992 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 24 05:25:10.000514 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Dec 24 05:25:10.001493 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 24 05:25:10.014874 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Fri Dec 24 05:25:10.015965 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Dec 25 21:06:35.222913 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 25 21:06:35.226469 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 25 21:06:36.265379 2021] [ssl:warn] [pid 1] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 25 21:06:36.266259 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 25 21:06:36.271440 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.9 OpenSSL/1.1.1d configured -- resuming normal operations
+[Sat Dec 25 21:06:36.273918 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
